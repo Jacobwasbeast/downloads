@@ -1,0 +1,64 @@
+#J1 {
+  color: red;
+  font-size: 40px;
+  font-family: goodbyeDespair;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  background-image: url("img1.jpg");
+
+} 
+#Att {
+    color :rgb(21, 167, 212); 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 70px;
+   }
+#Btt {
+    color : Red; 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 60px;
+    }
+#BCtt {
+    color : red;
+    }
+#BDtt {
+    color : blue;
+    }
+#BEtt {
+    color : red;
+    }
+nav li {
+list-style: none;
+display: inline-block;
+font-size: 20px;
+padding: 15px;
+}
+ nav {
+background-color: aqua;
+text-align: center;
+}
+#J2 {
+  color: blue;
+  font-size: 30px;
+  font-family: goodbyeDespair;
+  }
+#j {
+  color : blue;
+  font-size: 25px;
+}
+#youtube {
+font-size : 40px;
+  color: red;
+}
+#g {
+  color : red;
+  font-size: 25px;
+}
+body {
+ background-image: url("img1.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+  
+  
